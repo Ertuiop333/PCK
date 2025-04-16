@@ -1,2 +1,2 @@
-# PCK
-some godot pcks
+# Resources
+some godot resources
